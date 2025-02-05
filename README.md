@@ -56,11 +56,14 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 
 ### 📌 Pinned Repositories
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Tourism-Management-System)](https://github.com/Rayhan-50/Tourism-Management-System)
+### 📌 Pinned Repositories
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Lingo-Bingo)](https://github.com/Rayhan-50/Lingo-Bingo)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=portfolio-website)](https://github.com/Rayhan-50/portfolio-website)
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Bistro-Boss)](https://github.com/Rayhan-50/Bistro-Boss)
 
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=GadgetHaven)](https://github.com/Rayhan-50/GadgetHaven)
+
 
 ---
 
