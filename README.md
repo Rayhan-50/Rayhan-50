@@ -58,13 +58,13 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 
 ### 📌 Pinned Repositories
 
-[![Tourism Management System](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=TOURISM-MANAGEMENT-Client)](https://tourism-management-28e12.web.app/)
-[![Hotel Booking](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Hotel-Booking-client)](https://hotel-booking-client-2f049.web.app/)
-[![Assignment 10](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=assignment-10)](https://assignment-10-427ea.web.app/)
-[![Tourism Management Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=TOURISM-MANAGEMENT-server)](https://github.com/Rayhan-50/TOURISM-MANAGEMENT-server)
-[![Hotel Booking Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Hotel-Booking-server)](https://github.com/Rayhan-50/Hotel-Booking-server)
-[![VISA Client Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=VISA-client)](https://github.com/Rayhan-50/VISA-client)
-[![VISA Server Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=VISA-server)](https://github.com/Rayhan-50/VISA-server)
+---
+
+### 📌 Pinned Repositories
+
+[![VISA Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=VISA-client)](https://github.com/Rayhan-50/VISA-client)
+[![Tourism Management Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=TOURISM-MANAGEMENT-Client)](https://tourism-management-28e12.web.app/)
+[![Hotel Booking Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Hotel-Booking-client)](https://hotel-booking-client-2f049.web.app/)
 
 
 
