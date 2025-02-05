@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### A Passionate MERN Stack Developer
 
-<img src="https://i.ibb.co/d0WcPfP/1.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/Lhd3ytf/3.png" alt="Banner" width="100%" />
 
 ---
-
 ### 🚀 About Me
 I am a passionate **MERN Stack Developer** with a strong focus on building dynamic and responsive web applications. I enjoy learning new technologies and solving real-world problems through code.
 
