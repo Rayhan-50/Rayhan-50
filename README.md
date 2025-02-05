@@ -62,9 +62,10 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 
 ### 📌 Pinned Repositories
 
-[![VISA Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=VISA-client)](https://github.com/Rayhan-50/VISA-client)
-[![Tourism Management Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=TOURISM-MANAGEMENT-Client)](https://tourism-management-28e12.web.app/)
-[![Hotel Booking Client](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan-50&repo=Hotel-Booking-client)](https://hotel-booking-client-2f049.web.app/)
+- [VISA Client](https://github.com/Rayhan-50/VISA-client)
+- [Tourism Management Client](https://github.com/Rayhan-50/TOURISM-MANAGEMENT-Client)
+- [Hotel Booking Client](https://github.com/Rayhan-50/Hotel-Booking-client)
+
 
 
 
