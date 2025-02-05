@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### A Passionate MERN Stack Developer
 
-![Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Banner]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co.com/GbkT8mT/1.png))
 
 ---
 
