@@ -2,7 +2,7 @@
 #### A Passionate MERN Stack Developer
 
 <div>
-  <img src="https://i.ibb.co/ZkKmF9m/1.png" alt="Banner" style="width:100%; height:auto;" />
+  <img src="https://i.ibb.co/ZkKmF9m/1.png" alt="Banner" style="width:50%; height:auto;" />
 </div>
 
 ---
