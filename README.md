@@ -11,7 +11,7 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 - 🔭 I’m currently working on the **Tourism Management System**.
 - 🌱 I’m currently learning from **Programming Hero**.
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and JavaScript**.
-- 📫 How to reach me: **rayhanahmed.dev@gmail.com**
+- 📫 How to reach me: **rayhanahmed.nstu@gmail.com**
 - 🌍 Location: **Bangladesh**
 
 ---
@@ -64,7 +64,7 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 ---
 
 ### 📫 Contact Me
-**Email:** rayhanahmed.dev@gmail.com  
+**Email:** rayhanahmed.nstu@gmail.com  
 **Location:** Bangladesh
 
 
