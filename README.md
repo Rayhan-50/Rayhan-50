@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### A Passionate MERN Stack Developer
 
-<div>
-  <img src="https://i.ibb.co/ZkKmF9m/1.png" alt="Banner" style="width:50%; height:auto;" />
-</div>
+<img src="https://i.ibb.co/ZkKmF9m/1.png" alt="Banner" width="100%" />
 
 ---
 
