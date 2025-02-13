@@ -72,7 +72,7 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 
 ### 📫 Contact Me
 **Email:** rayhanahmed.nstu@gmail.com  
-**Location:** Bangladesh
+**Location:** Dhaka, Bangladesh
 
 
 
