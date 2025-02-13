@@ -6,13 +6,13 @@
 
 ---
 ### 🚀 About Me
-I am a passionate **MERN Stack Developer** with a strong focus on building dynamic and responsive web applications. I enjoy learning new technologies and solving real-world problems throughhttps://i.ibb.co.com/PsKgqCwh/3-min-1.png code.
+I am a passionate **MERN Stack Developer** with a strong focus on building dynamic and responsive web applications. I enjoy learning new technologies and solving real-world problems.
 
 - 🔭 I’m currently working on the **Tourism Management System**.
 - 🌱 I’m currently learning from **Programming Hero**.
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and JavaScript**.
 - 📫 How to reach me: **rayhanahmed.nstu@gmail.com**
-- 🌍 Location: **Bangladesh**
+- 🌍 Location: **Dhaka,Bangladesh**
 
 ---
 
