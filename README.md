@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### Senior MERN Stack Developer | Full Stack Innovator
 
-[![Banner Image](https://placehold.co/1920x400?text=Rayhan+Ahmed+-+MERN+Stack+Developer)](https://placehold.co/1920x400?text=Rayhan+Ahmed+-+MERN+Stack+Developer)
+<img src="https://i.ibb.co/HDjfmLdj/Github.png" alt="Github" border="0">
 
 ---
 
