@@ -51,7 +51,7 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayhan-50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rayhan-ahmed-0ab5aa33a)
-[Portfolio Website]((https://adhesive-bed.surge.sh/))
+[Portfolio Website](https://adhesive-bed.surge.sh/)
 
 ---
 
