@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### junior MERN Stack Developer | Full Stack Innovator
 
-[![Rayhan Ahmed](https://i.ibb.co/Cp3MDLn8/Raihan-1.jpg)](https://github.com/Rayhan-50)
+<p align="center">
+  <a href="https://github.com/Rayhan-50">
+    <img src="https://i.ibb.co/Cp3MDLn8/Raihan-1.jpg" alt="Rayhan Ahmed Banner" width="100%" />
+  </a>
+</p>
 
 
 ---
