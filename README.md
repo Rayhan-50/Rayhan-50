@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### junior MERN Stack Developer | Full Stack Innovator
 
-![Github](https://i.ibb.co/HDjfmLd/Github.png)
-
+![GitHub](https://i.ibb.co/GQd86HhG/Raihan-1.jpg)
 
 ---
 
@@ -33,11 +32,9 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
 **Database:**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 **Tools & Technologies:**
 
@@ -45,13 +42,12 @@ I am a passionate **MERN Stack Developer** with a strong focus on building dynam
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 **🌐 Connect**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayhan-50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rayhan-ahmed-0ab5aa33a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-ahmed-0ab5aa33a)
 [Portfolio Website](https://adhesive-bed.surge.sh/)
 
 ---
@@ -101,6 +97,3 @@ Feel free to reach out for collaboration, discussions, or opportunities.
 ### 📫 Contact Me
 **Email:** rayhanahmed.nstu@gmail.com  
 **Location:** Dhaka, Bangladesh
-
-
-
