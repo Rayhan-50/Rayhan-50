@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rayhan Ahmed
 #### junior MERN Stack Developer | Full Stack Innovator
 
-![GitHub]([https://i.ibb.co/GQd86HhG/Raihan-1.jpg](https://i.ibb.co/GQd86HhG/Raihan-1.jpg))
+[![Rayhan Ahmed](https://i.ibb.co/Cp3MDLn8/Raihan-1.jpg)](https://github.com/Rayhan-50)
 
 
 ---
