@@ -2,7 +2,7 @@
 ### Junior MERN Stack Developer | Full Stack Innovator
 
 <p align="center">
-  <img src="https://i.ibb.co/Cp3MDLn/Raihan-1.jpg" alt="Rayhan Ahmed Banner" width="100%" />
+  <img src="https://i.ibb.co/20nnDcGN/Raihan-1.jpg" alt="Rayhan Ahmed Banner" width="100%" />
 </p>
 
 ---
