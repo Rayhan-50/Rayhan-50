@@ -21,7 +21,8 @@
     </defs>
 
     <!-- Ken-Burns zoom/pan on your image -->
-    <image href="https://i.ibb.co/20nnDcGN/Raihan-1.jpg"
+    <!-- NOTE: if ibb.co blocks the image, swap this href with the direct i.ibb.co URL for your banner -->
+    <image href="https://ibb.co/0jCyJG3D"
            x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
       <!-- zoom in then back out smoothly -->
       <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
