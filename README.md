@@ -20,11 +20,9 @@
       </mask>
     </defs>
 
-    <!-- Ken-Burns zoom/pan on your image -->
-    <!-- NOTE: if ibb.co blocks the image, swap this href with the direct i.ibb.co URL for your banner -->
-    <image href="https://ibb.co/0jCyJG3D"
+    <!-- Use the DIRECT image link (replace filename if needed) -->
+    <image href="https://i.ibb.co/0jCyJG3D/banner.png"
            x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
-      <!-- zoom in then back out smoothly -->
       <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="y" values="-15;0;-15" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="width"  values="1260;1200;1260" dur="18s" repeatCount="indefinite"/>
