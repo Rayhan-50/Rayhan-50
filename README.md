@@ -1,69 +1,55 @@
-<!-- ========== WAVE HEADER ========== -->
+<!-- ========== WAVE HEADER (RED) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00ffff&text=&fontAlign=50&fontColor=ffffff&section=header&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ff0033&text=&fontAlign=50&fontColor=ffffff&section=header&reversal=true" />
 </p>
 
-<!-- ========== NEON ANIMATED TITLE (SVG) ========== -->
+<!-- ========== ANIMATED BANNER (KEN-BURNS + SHIMMER) ========== -->
 <p align="center">
-  <svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional Web Developer">
+  <svg width="100%" height="260" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rayhan Ahmed Banner">
     <defs>
-      <linearGradient id="c" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00FFFF"/>
-        <stop offset="50%" stop-color="#7FFFFF"/>
-        <stop offset="100%" stop-color="#00FFFF"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-      </filter>
-      <linearGradient id="shimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
-        <stop offset="0%" stop-color="white" stop-opacity="0"/>
-        <stop offset="50%" stop-color="white" stop-opacity="0.9"/>
+      <!-- subtle diagonal shimmer -->
+      <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
+        <stop offset="0%"  stop-color="white" stop-opacity="0"/>
+        <stop offset="50%" stop-color="white" stop-opacity="0.25"/>
         <stop offset="100%" stop-color="white" stop-opacity="0"/>
-        <animate attributeName="x1" from="-100%" to="200%" dur="3s" repeatCount="indefinite"/>
-        <animate attributeName="x2" from="0%" to="300%" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="x1" from="-100%" to="200%" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="x2" from="0%"    to="300%" dur="9s" repeatCount="indefinite"/>
       </linearGradient>
-      <mask id="shine"><rect width="1200" height="130" fill="url(#shimmer)"/></mask>
+      <mask id="shimmerMask">
+        <rect width="1200" height="360" fill="url(#shine)"/>
+      </mask>
     </defs>
 
-    <!-- main neon text -->
-    <text x="50%" y="52%" text-anchor="middle" dominant-baseline="central"
-          font-family="Fira Code, monospace" font-size="44"
-          fill="url(#c)" filter="url(#glow)">
-      Professional Web Developer
-      <animate attributeName="letter-spacing" values="1;3;1" dur="2.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.93;1;0.93" dur="2.5s" repeatCount="indefinite"/>
-    </text>
+    <!-- Ken-Burns zoom/pan on your image -->
+    <image href="https://i.ibb.co/20nnDcGN/Raihan-1.jpg"
+           x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
+      <!-- zoom in then back out smoothly -->
+      <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="-15;0;-15" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="width"  values="1260;1200;1260" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="390;360;390"   dur="18s" repeatCount="indefinite"/>
+    </image>
 
-    <!-- shimmer overlay -->
-    <text x="50%" y="52%" text-anchor="middle" dominant-baseline="central"
-          font-family="Fira Code, monospace" font-size="44"
-          fill="#FFFFFF" mask="url(#shine)" opacity="0.7">
-      Professional Web Developer
-    </text>
+    <!-- soft shimmer sweep -->
+    <rect width="1200" height="360" fill="white" mask="url(#shimmerMask)"/>
   </svg>
 </p>
 
-<!-- ========== ROLE TICKER (TYPING) ========== -->
+<!-- ========== ROLE TICKER (RED) ========== -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=1800&color=00FFFF&center=true&vCenter=true&width=720&lines=MERN+%7C+Next.js+%7C+TypeScript;Clean+Architecture+%26+API+Design;Pixel-Perfect+UI+with+TailwindCSS;Performance+%26+Scalability+Focused" alt="typing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=1800&color=FF0033&center=true&vCenter=true&width=800&lines=Professional+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript;Clean+Architecture+%26+API+Design;Performance+%26+Scalability+Focused" alt="typing roles" />
 </h3>
 
-<!-- ========== BANNER ========== -->
-<p align="center">
-  <img src="https://i.ibb.co/20nnDcGN/Raihan-1.jpg" alt="Rayhan Ahmed Banner" width="100%" />
-</p>
-
-<!-- ========== QUICK CONTACT / CTA ========== -->
+<!-- ========== QUICK CONTACT / CTA (RED) ========== -->
 <p align="center">
   <a href="mailto:rayhanahmed.nstu@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-00FFFF?style=for-the-badge&logo=Handshake&logoColor=000&labelColor=001f2b&color=00FFFF" />
+    <img src="https://img.shields.io/badge/Hire%20Me-FF0033?style=for-the-badge&logo=Handshake&logoColor=000&labelColor=1b0a0a&color=FF0033" />
   </a>
   <a href="https://adhesive-bed.surge.sh/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-001f2b?style=for-the-badge&logo=google-chrome&logoColor=00FFFF" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033" />
   </a>
   <a href="https://linkedin.com/in/rayhan-ahmed-0ab5aa33a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-001f2b?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033" />
   </a>
 </p>
 
@@ -74,7 +60,7 @@
 I build **modern, scalable web apps** with a strong focus on **DX, performance, and clean architecture**.
 
 - ⚙️ **Stack:** React / Next.js • TypeScript • Node.js / Express • MongoDB • TailwindCSS  
-- 🧭 **What I do:** component-driven UIs, REST APIs, auth, state & data fetching (SSR/ISR)  
+- 🧭 **What I do:** component-driven UIs, REST APIs, auth, SSR/ISR, state & data fetching  
 - 📈 **Values:** accessibility, performance budgets, predictable state, maintainable code  
 - 📫 **Reach me:** **rayhanahmed.nstu@gmail.com** • Dhaka, Bangladesh  
 
@@ -123,19 +109,18 @@ I build **modern, scalable web apps** with a strong focus on **DX, performance, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan-50&theme=tokyonight&hide_border=false" />
 </p>
 
-<!-- animated contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhan-50&theme=tokyo-night&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhan-50&theme=redical&hide_border=false" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-adhesive--bed.surge.sh-001f2b?style=for-the-badge&logo=google-chrome&logoColor=00FFFF)](https://adhesive-bed.surge.sh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/Rayhan-50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayhan--ahmed-001f2b?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/rayhan-ahmed-0ab5aa33a)
-[![Email](https://img.shields.io/badge/Email-rayhanahmed.nstu%40gmail.com-001f2b?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:rayhanahmed.nstu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-adhesive--bed.surge.sh-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033)](https://adhesive-bed.surge.sh/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=FF0033)](https://github.com/Rayhan-50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayhan--ahmed-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033)](https://linkedin.com/in/rayhan-ahmed-0ab5aa33a)
+[![Email](https://img.shields.io/badge/Email-rayhanahmed.nstu%40gmail.com-1b0a0a?style=for-the-badge&logo=gmail&logoColor=FF0033)](mailto:rayhanahmed.nstu@gmail.com)
 
 ---
 
@@ -148,8 +133,7 @@ I build **modern, scalable web apps** with a strong focus on **DX, performance, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00ffff&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff0033&section=footer" />
 </p>
 
-<!-- Quote -->
 <p align="center"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></p>
