@@ -1,6 +1,10 @@
-<!-- ========== WAVE HEADER (RED) ========== -->
+<!-- ========== FULL HEADER BANNER (RED THEME) ========== -->
 <p align="center">
-  <img src="https://i.ibb.co/XYZ123/banner.png" alt="Custom Header Banner" width="100%" />
+  <!-- Replace DIRECT_BANNER_URL with your direct i.ibb.co link -->
+  <a href="https://ibb.co/LD99Lqfh" target="_blank" rel="noopener noreferrer">
+    <img src="[DIRECT_BANNER_URL](https://i.ibb.co/abcd1234/your-banner.png
+)" alt="Custom Header Banner" width="100%" />
+  </a>
 </p>
 
 <!-- ========== ANIMATED BANNER (KEN-BURNS + SHIMMER) ========== -->
@@ -20,8 +24,8 @@
       </mask>
     </defs>
 
-    <!-- Use the DIRECT image link (replace filename if needed) -->
-    <image href="https://i.ibb.co/0jCyJG3D/banner.png"
+    <!-- Animated Ken-Burns using the same direct URL -->
+    <image href="DIRECT_BANNER_URL"
            x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
       <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="y" values="-15;0;-15" dur="18s" repeatCount="indefinite"/>
