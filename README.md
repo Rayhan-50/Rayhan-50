@@ -1,10 +1,6 @@
 <!-- ========== FULL HEADER BANNER (RED THEME) ========== -->
 <p align="center">
-  <!-- Replace DIRECT_BANNER_URL with your direct i.ibb.co link -->
-  <a href="https://ibb.co/LD99Lqfh" target="_blank" rel="noopener noreferrer">
-    <img src="[DIRECT_BANNER_URL](https://i.ibb.co/abcd1234/your-banner.png
-)" alt="Custom Header Banner" width="100%" />
-  </a>
+  <img src="https://i.ibb.co/2M0W0pb/banner.png" alt="Custom Header Banner" width="100%" />
 </p>
 
 <!-- ========== ANIMATED BANNER (KEN-BURNS + SHIMMER) ========== -->
@@ -24,8 +20,8 @@
       </mask>
     </defs>
 
-    <!-- Animated Ken-Burns using the same direct URL -->
-    <image href="DIRECT_BANNER_URL"
+    <!-- Animated Ken-Burns -->
+    <image href="https://i.ibb.co/2M0W0pb/banner.png"
            x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
       <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="y" values="-15;0;-15" dur="18s" repeatCount="indefinite"/>
