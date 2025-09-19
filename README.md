@@ -1,6 +1,6 @@
 <!-- ========== WAVE HEADER (RED) ========== -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=140&color=ff0033&text=&fontAlign=50&fontColor=ffffff&section=header&reversal=true](https://ibb.co/0jCyJG3D)" />
+  <img src="https://i.ibb.co/XYZ123/banner.png" alt="Custom Header Banner" width="100%" />
 </p>
 
 <!-- ========== ANIMATED BANNER (KEN-BURNS + SHIMMER) ========== -->
