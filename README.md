@@ -1,9 +1,54 @@
-# 👋 Hi, I'm Rayhan Ahmed
+<!-- 🔹 Neon Animated Title -->
+<p align="center">
+  <svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Junior MERN Stack Developer">
+    <defs>
+      <!-- Neon gradient -->
+      <linearGradient id="c" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00FFFF"/>
+        <stop offset="50%" stop-color="#7FFFFF"/>
+        <stop offset="100%" stop-color="#00FFFF"/>
+      </linearGradient>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Junior+MERN+Stack+Developer;Full+Stack+Web+Innovator;TypeScript+%7C+Next.js+Lover;Open+Source+Contributor" alt="Typing SVG" />
-</h3>
+      <!-- Glow effect -->
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
 
+      <!-- Shimmer animation -->
+      <linearGradient id="shimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
+        <stop offset="0%" stop-color="white" stop-opacity="0"/>
+        <stop offset="50%" stop-color="white" stop-opacity="0.9"/>
+        <stop offset="100%" stop-color="white" stop-opacity="0"/>
+        <animate attributeName="x1" from="-100%" to="200%" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="x2" from="0%" to="300%" dur="3s" repeatCount="indefinite"/>
+      </linearGradient>
+      <mask id="shine">
+        <rect width="1200" height="130" fill="url(#shimmer)"/>
+      </mask>
+    </defs>
+
+    <!-- Neon glowing text -->
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+          font-family="Fira Code, monospace" font-size="44"
+          fill="url(#c)" filter="url(#glow)">
+      Junior MERN Stack Developer
+      <animate attributeName="letter-spacing" values="1;3;1" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Shimmer overlay -->
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+          font-family="Fira Code, monospace" font-size="44"
+          fill="#FFFFFF" mask="url(#shine)" opacity="0.7">
+      Junior MERN Stack Developer
+    </text>
+  </svg>
+</p>
+
+<!-- 🔹 Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co/20nnDcGN/Raihan-1.jpg" alt="Rayhan Ahmed Banner" width="100%" />
 </p>
@@ -14,10 +59,16 @@
 
 I'm a passionate **MERN Stack Developer** focused on building dynamic, responsive, and scalable web applications.
 
-- 🔭 Exploring **Next.js**, **TypeScript**, and backend scaling
-- 💬 Let’s talk about React, Node.js, and clean architecture
-- 📫 Email: rayhanahmed.nstu@gmail.com
-- 📍 Location: Dhaka, Bangladesh | 📞 01645991970
+- 🔭 Exploring **Next.js**, **TypeScript**, and backend scaling  
+- 💬 Let’s talk about React, Node.js, and clean architecture  
+- 📫 Email: **rayhanahmed.nstu@gmail.com**  
+- 📍 Location: Dhaka, Bangladesh | 📞 01645991970  
+
+<p align="center">
+  <a href="mailto:rayhanahmed.nstu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-00FFFF?style=for-the-badge&logo=Handshake&logoColor=black&labelColor=001f2b&color=00FFFF">
+  </a>
+</p>
 
 ---
 
@@ -94,11 +145,11 @@ I'm a passionate **MERN Stack Developer** focused on building dynamic, responsiv
 
 ## 🎯 Goals Ahead
 
-- ✅ Learn Docker, Prisma, and advanced backend
-- 🔐 Master modern auth (OAuth, JWT, NextAuth)
-- 📈 Build scalable TypeScript + Next.js apps
-- 💬 Speak at meetups, contribute to open-source
+- ✅ Learn Docker, Prisma, and advanced backend  
+- 🔐 Master modern auth (OAuth, JWT, NextAuth)  
+- 📈 Build scalable TypeScript + Next.js apps  
+- 💬 Speak at meetups, contribute to open-source  
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> *“First, solve the problem. Then, write the code.”* – John Johnson
