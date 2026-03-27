@@ -1,32 +1,131 @@
-<!-- ========== FULL HEADER BANNER (RED THEME) ========== -->
+<!-- ========== SELF-CONTAINED SVG BANNER — NO EXTERNAL IMAGES ========== -->
 <p align="center">
-  <img src="https://i.ibb.co/2M0W0pb/banner.png" alt="Custom Header Banner" width="100%" />
-</p>
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep dark background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#0a0000"/>
+      <stop offset="50%"  stop-color="#1a0505"/>
+      <stop offset="100%" stop-color="#0d0000"/>
+    </linearGradient>
+    <!-- Red accent glow gradient -->
+    <radialGradient id="glowLeft" cx="20%" cy="50%" r="45%">
+      <stop offset="0%"  stop-color="#FF0033" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FF0033" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="80%" cy="50%" r="40%">
+      <stop offset="0%"  stop-color="#FF0033" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FF0033" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Shimmer sweep -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="white" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="white" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;200%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;300%"    dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF0033" stroke-width="0.3" stroke-opacity="0.15"/>
+    </pattern>
+    <clipPath id="roundedClip">
+      <rect width="900" height="280" rx="16" ry="16"/>
+    </clipPath>
+  </defs>
 
-<!-- ========== ANIMATED BANNER (KEN-BURNS + SHIMMER) ========== -->
-<p align="center">
-  <svg width="100%" height="260" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rayhan Ahmed Banner">
-    <defs>
-      <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
-        <stop offset="0%"  stop-color="white" stop-opacity="0"/>
-        <stop offset="50%" stop-color="white" stop-opacity="0.25"/>
-        <stop offset="100%" stop-color="white" stop-opacity="0"/>
-        <animate attributeName="x1" from="-100%" to="200%" dur="9s" repeatCount="indefinite"/>
-        <animate attributeName="x2" from="0%"    to="300%" dur="9s" repeatCount="indefinite"/>
-      </linearGradient>
-      <mask id="shimmerMask">
-        <rect width="1200" height="360" fill="url(#shine)"/>
-      </mask>
-    </defs>
-    <image href="https://i.ibb.co/2M0W0pb/banner.png"
-           x="-30" y="-15" width="1260" height="390" preserveAspectRatio="xMidYMid slice">
-      <animate attributeName="x" values="-30;0;-30" dur="18s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="-15;0;-15" dur="18s" repeatCount="indefinite"/>
-      <animate attributeName="width"  values="1260;1200;1260" dur="18s" repeatCount="indefinite"/>
-      <animate attributeName="height" values="390;360;390"   dur="18s" repeatCount="indefinite"/>
-    </image>
-    <rect width="1200" height="360" fill="white" mask="url(#shimmerMask)"/>
-  </svg>
+  <!-- Base -->
+  <rect width="900" height="280" rx="16" fill="url(#bgGrad)"/>
+  <!-- Grid overlay -->
+  <rect width="900" height="280" rx="16" fill="url(#grid)" clip-path="url(#roundedClip)"/>
+  <!-- Glow blobs -->
+  <rect width="900" height="280" fill="url(#glowLeft)"  clip-path="url(#roundedClip)"/>
+  <rect width="900" height="280" fill="url(#glowRight)" clip-path="url(#roundedClip)"/>
+  <!-- Shimmer sweep -->
+  <rect width="900" height="280" fill="url(#shimmer)"   clip-path="url(#roundedClip)"/>
+
+  <!-- Top red accent line -->
+  <rect x="0" y="0" width="900" height="3" rx="2" fill="#FF0033" opacity="0.9"/>
+  <!-- Bottom red accent line -->
+  <rect x="0" y="277" width="900" height="3" rx="2" fill="#FF0033" opacity="0.5"/>
+
+  <!-- Left vertical accent bar -->
+  <rect x="52" y="50" width="3" height="180" rx="2" fill="#FF0033" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- RA monogram circle -->
+  <circle cx="88" cy="80" r="28" fill="none" stroke="#FF0033" stroke-width="1.5" opacity="0.6"/>
+  <text x="88" y="86" font-family="monospace" font-size="16" font-weight="bold" fill="#FF0033" text-anchor="middle" opacity="0.9">RA</text>
+
+  <!-- Name -->
+  <text x="130" y="82" font-family="'Courier New', monospace" font-size="34" font-weight="bold" fill="#FFFFFF" letter-spacing="2">
+    Rayhan Ahmed
+  </text>
+
+  <!-- Red underline under name -->
+  <rect x="130" y="92" width="340" height="2" rx="1" fill="#FF0033" opacity="0.8"/>
+
+  <!-- Role line -->
+  <text x="131" y="122" font-family="'Courier New', monospace" font-size="14" fill="#FF0033" letter-spacing="1" opacity="0.95">
+    Senior Full Stack Engineer
+  </text>
+
+  <!-- Divider dot row -->
+  <circle cx="131" cy="143" r="2" fill="#FF0033" opacity="0.7"/>
+  <circle cx="141" cy="143" r="2" fill="#FF0033" opacity="0.5"/>
+  <circle cx="151" cy="143" r="2" fill="#FF0033" opacity="0.3"/>
+
+  <!-- Tag pills row -->
+  <!-- MERN -->
+  <rect x="130" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="161" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">MERN</text>
+  <!-- Next.js -->
+  <rect x="200" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="231" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Next.js</text>
+  <!-- TypeScript -->
+  <rect x="270" y="156" width="80" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="310" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">TypeScript</text>
+  <!-- Docker -->
+  <rect x="358" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="389" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Docker</text>
+  <!-- Golang -->
+  <rect x="428" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="459" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Golang</text>
+
+  <!-- Tagline -->
+  <text x="130" y="212" font-family="'Courier New', monospace" font-size="13" fill="#aaaaaa" letter-spacing="0.5">
+    Designing scalable systems &amp; production-grade APIs
+  </text>
+
+  <!-- Location / email line -->
+  <text x="130" y="238" font-family="monospace" font-size="11" fill="#666666">
+    📍 Dhaka, Bangladesh  ·  rayhanahmed.nstu@gmail.com
+  </text>
+
+  <!-- Right-side decorative circuit lines -->
+  <line x1="720" y1="60"  x2="860" y2="60"  stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.3"/>
+  <line x1="740" y1="80"  x2="860" y2="80"  stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.2"/>
+  <line x1="760" y1="100" x2="860" y2="100" stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.15"/>
+  <circle cx="720" cy="60"  r="3" fill="#FF0033" opacity="0.5"/>
+  <circle cx="740" cy="80"  r="3" fill="#FF0033" opacity="0.4"/>
+  <circle cx="760" cy="100" r="3" fill="#FF0033" opacity="0.3"/>
+  <!-- Vertical connector -->
+  <line x1="860" y1="60" x2="860" y2="100" stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.3"/>
+
+  <!-- Large faint background RA watermark -->
+  <text x="660" y="230" font-family="monospace" font-size="130" font-weight="bold" fill="#FF0033" fill-opacity="0.04" text-anchor="middle">RA</text>
+
+  <!-- Animated pulse dot top-right -->
+  <circle cx="860" cy="40" r="5" fill="#FF0033" opacity="0.9">
+    <animate attributeName="r"       values="5;8;5"     dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="40" r="10" fill="none" stroke="#FF0033" stroke-width="1" opacity="0.4">
+    <animate attributeName="r"       values="10;16;10"  dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.4"  dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 </p>
 
 <!-- ========== ROLE TICKER (RED) ========== -->
