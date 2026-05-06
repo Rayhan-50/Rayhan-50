@@ -1,139 +1,13 @@
-<!-- ========== SELF-CONTAINED SVG BANNER — NO EXTERNAL IMAGES ========== -->
 <p align="center">
-<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Deep dark background gradient -->
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#0a0000"/>
-      <stop offset="50%"  stop-color="#1a0505"/>
-      <stop offset="100%" stop-color="#0d0000"/>
-    </linearGradient>
-    <!-- Red accent glow gradient -->
-    <radialGradient id="glowLeft" cx="20%" cy="50%" r="45%">
-      <stop offset="0%"  stop-color="#FF0033" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#FF0033" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowRight" cx="80%" cy="50%" r="40%">
-      <stop offset="0%"  stop-color="#FF0033" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#FF0033" stop-opacity="0"/>
-    </radialGradient>
-    <!-- Shimmer sweep -->
-    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="white" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="white" stop-opacity="0.04"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-      <animate attributeName="x1" values="-100%;200%" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;300%"    dur="5s" repeatCount="indefinite"/>
-    </linearGradient>
-    <!-- Grid pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF0033" stroke-width="0.3" stroke-opacity="0.15"/>
-    </pattern>
-    <clipPath id="roundedClip">
-      <rect width="900" height="280" rx="16" ry="16"/>
-    </clipPath>
-  </defs>
-
-  <!-- Base -->
-  <rect width="900" height="280" rx="16" fill="url(#bgGrad)"/>
-  <!-- Grid overlay -->
-  <rect width="900" height="280" rx="16" fill="url(#grid)" clip-path="url(#roundedClip)"/>
-  <!-- Glow blobs -->
-  <rect width="900" height="280" fill="url(#glowLeft)"  clip-path="url(#roundedClip)"/>
-  <rect width="900" height="280" fill="url(#glowRight)" clip-path="url(#roundedClip)"/>
-  <!-- Shimmer sweep -->
-  <rect width="900" height="280" fill="url(#shimmer)"   clip-path="url(#roundedClip)"/>
-
-  <!-- Top red accent line -->
-  <rect x="0" y="0" width="900" height="3" rx="2" fill="#FF0033" opacity="0.9"/>
-  <!-- Bottom red accent line -->
-  <rect x="0" y="277" width="900" height="3" rx="2" fill="#FF0033" opacity="0.5"/>
-
-  <!-- Left vertical accent bar -->
-  <rect x="52" y="50" width="3" height="180" rx="2" fill="#FF0033" opacity="0.7">
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- RA monogram circle -->
-  <circle cx="88" cy="80" r="28" fill="none" stroke="#FF0033" stroke-width="1.5" opacity="0.6"/>
-  <text x="88" y="86" font-family="monospace" font-size="16" font-weight="bold" fill="#FF0033" text-anchor="middle" opacity="0.9">RA</text>
-
-  <!-- Name -->
-  <text x="130" y="82" font-family="'Courier New', monospace" font-size="34" font-weight="bold" fill="#FFFFFF" letter-spacing="2">
-    Rayhan Ahmed
-  </text>
-
-  <!-- Red underline under name -->
-  <rect x="130" y="92" width="340" height="2" rx="1" fill="#FF0033" opacity="0.8"/>
-
-  <!-- Role line -->
-  <text x="131" y="122" font-family="'Courier New', monospace" font-size="14" fill="#FF0033" letter-spacing="1" opacity="0.95">
-    Senior Full Stack Engineer
-  </text>
-
-  <!-- Divider dot row -->
-  <circle cx="131" cy="143" r="2" fill="#FF0033" opacity="0.7"/>
-  <circle cx="141" cy="143" r="2" fill="#FF0033" opacity="0.5"/>
-  <circle cx="151" cy="143" r="2" fill="#FF0033" opacity="0.3"/>
-
-  <!-- Tag pills row -->
-  <!-- MERN -->
-  <rect x="130" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="161" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">MERN</text>
-  <!-- Next.js -->
-  <rect x="200" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="231" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Next.js</text>
-  <!-- TypeScript -->
-  <rect x="270" y="156" width="80" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="310" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">TypeScript</text>
-  <!-- Docker -->
-  <rect x="358" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="389" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Docker</text>
-  <!-- Golang -->
-  <rect x="428" y="156" width="62" height="22" rx="4" fill="#FF0033" fill-opacity="0.15" stroke="#FF0033" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="459" y="171" font-family="monospace" font-size="11" fill="#FF6680" text-anchor="middle">Golang</text>
-
-  <!-- Tagline -->
-  <text x="130" y="212" font-family="'Courier New', monospace" font-size="13" fill="#aaaaaa" letter-spacing="0.5">
-    Designing scalable systems &amp; production-grade APIs
-  </text>
-
-  <!-- Location / email line -->
-  <text x="130" y="238" font-family="monospace" font-size="11" fill="#666666">
-    📍 Dhaka, Bangladesh  ·  rayhanahmed.nstu@gmail.com
-  </text>
-
-  <!-- Right-side decorative circuit lines -->
-  <line x1="720" y1="60"  x2="860" y2="60"  stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.3"/>
-  <line x1="740" y1="80"  x2="860" y2="80"  stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.2"/>
-  <line x1="760" y1="100" x2="860" y2="100" stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.15"/>
-  <circle cx="720" cy="60"  r="3" fill="#FF0033" opacity="0.5"/>
-  <circle cx="740" cy="80"  r="3" fill="#FF0033" opacity="0.4"/>
-  <circle cx="760" cy="100" r="3" fill="#FF0033" opacity="0.3"/>
-  <!-- Vertical connector -->
-  <line x1="860" y1="60" x2="860" y2="100" stroke="#FF0033" stroke-width="0.6" stroke-opacity="0.3"/>
-
-  <!-- Large faint background RA watermark -->
-  <text x="660" y="230" font-family="monospace" font-size="130" font-weight="bold" fill="#FF0033" fill-opacity="0.04" text-anchor="middle">RA</text>
-
-  <!-- Animated pulse dot top-right -->
-  <circle cx="860" cy="40" r="5" fill="#FF0033" opacity="0.9">
-    <animate attributeName="r"       values="5;8;5"     dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="860" cy="40" r="10" fill="none" stroke="#FF0033" stroke-width="1" opacity="0.4">
-    <animate attributeName="r"       values="10;16;10"  dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0;0.4"  dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+  <img src="https://raw.githubusercontent.com/Rayhan-50/Rayhan-50/main/github-header-banner.png" width="100%" alt="Rayhan Ahmed - Senior Full Stack Engineer Banner" />
 </p>
 
-<!-- ========== ROLE TICKER (RED) ========== -->
+<!-- ROLE TICKER -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=1800&color=FF0033&center=true&vCenter=true&width=900&lines=Designing+Scalable+Systems+%26+Production-Grade+APIs;Senior+Full+Stack+Engineer+%7C+MERN+%2B+Next.js+%2B+TypeScript;Backend+Architecture+%7C+PostgreSQL+%7C+Docker+%7C+Golang;Clean+Code.+Zero+Compromise.+Ship+at+Scale." alt="typing roles" />
 </h3>
 
-<!-- ========== QUICK CONTACT / CTA (RED) ========== -->
+<!-- QUICK CONTACT / CTA -->
 <p align="center">
   <a href="mailto:rayhanahmed.nstu@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-FF0033?style=for-the-badge&logo=Handshake&logoColor=000&labelColor=1b0a0a&color=FF0033" />
@@ -181,7 +55,7 @@ My work lives at the intersection of **backend engineering, API design, and syst
   </tr>
   <tr>
     <td>📐</td>
-    <td><strong>RESTful & GraphQL API Design</strong></td>
+    <td><strong>RESTful &amp; GraphQL API Design</strong></td>
     <td>Resource-first API modeling with versioning, validation, rate-limiting, and clean error contracts</td>
   </tr>
   <tr>
@@ -191,7 +65,7 @@ My work lives at the intersection of **backend engineering, API design, and syst
   </tr>
   <tr>
     <td>🔐</td>
-    <td><strong>Auth & Security</strong></td>
+    <td><strong>Auth &amp; Security</strong></td>
     <td>JWT, OAuth2, session management, RBAC, input sanitization, and secure cookie patterns</td>
   </tr>
   <tr>
@@ -291,32 +165,15 @@ My work lives at the intersection of **backend engineering, API design, and syst
 
 ## ⚡ Engineering Snippet
 
-A taste of how I write production-grade code:
-
 ```typescript
-// ── types/user.ts ─────────────────────────────────────────────
+// ── types/user.ts
 interface CreateUserDTO {
   name: string;
   email: string;
   role: "admin" | "user" | "guest";
 }
 
-interface ApiResponse<T> {
-  success: boolean;
-  data: T;
-  meta?: { total?: number; page?: number };
-}
-```
-
-```typescript
-// ── routes/users.ts ───────────────────────────────────────────
-import { Router, Request, Response, NextFunction } from "express";
-import { validateBody } from "../middleware/validate";
-import { createUserSchema } from "../schemas/user.schema";
-import { UserService } from "../services/user.service";
-
-const router = Router();
-
+// ── routes/users.ts
 router.post(
   "/",
   validateBody(createUserSchema),
@@ -325,19 +182,12 @@ router.post(
       const user = await UserService.create(req.body as CreateUserDTO);
       res.status(201).json({ success: true, data: user });
     } catch (err) {
-      next(err); // centralised error handler
+      next(err);
     }
   }
 );
 
-export default router;
-```
-
-```typescript
-// ── services/user.service.ts ──────────────────────────────────
-import { prisma } from "../lib/prisma";
-import type { CreateUserDTO } from "../types/user";
-
+// ── services/user.service.ts
 export const UserService = {
   async create(dto: CreateUserDTO) {
     return prisma.user.create({
@@ -345,12 +195,8 @@ export const UserService = {
       select: { id: true, name: true, email: true, role: true, createdAt: true },
     });
   },
-
   async findByEmail(email: string) {
-    return prisma.user.findUnique({
-      where: { email },
-      include: { profile: true },
-    });
+    return prisma.user.findUnique({ where: { email }, include: { profile: true } });
   },
 };
 ```
@@ -362,10 +208,9 @@ export const UserService = {
 ## 🔥 Highlighted Projects
 
 ### 🔐 VISA Client — Visa Management Portal
-
 > A full-stack portal for managing visa applications with role-based auth, protected routes, and complete CRUD workflows.
 
-- **Problem solved:** Manual visa tracking with zero digital infrastructure — replaced with a structured, auth-gated portal
+- **Problem solved:** Manual visa tracking replaced with a structured, auth-gated portal
 - **Architecture:** React SPA with Firebase Auth + Firestore, client-side route protection via custom auth context
 - **Real-world value:** Dynamic status tracking, multi-role access control, and form-driven data entry
 
@@ -376,11 +221,10 @@ export const UserService = {
 ---
 
 ### 🌍 Tourism Management — Full-Stack Booking Platform
-
 > End-to-end tour booking application with authenticated user flows, dynamic listings, and booking management.
 
-- **Problem solved:** Tourism operators needed a branded platform replacing manual booking coordination
-- **Architecture:** Component-driven React frontend · Firebase Realtime DB · context-based auth with persistent sessions
+- **Problem solved:** Manual booking coordination replaced with a branded digital platform
+- **Architecture:** React frontend · Firebase Realtime DB · context-based auth with persistent sessions
 - **Real-world value:** Live booking state, protected user dashboards, and scalable listing structure
 
 [![Live](https://img.shields.io/badge/Live-Demo-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://tourism-management-28e12.web.app/)
@@ -390,12 +234,11 @@ export const UserService = {
 ---
 
 ### 🏨 Hotel Booking — Listings & Reservation System
-
 > Hotel listing platform with advanced filters, detailed property pages, and a complete booking flow.
 
-- **Problem solved:** Static hotel pages with no reservation pipeline — replaced with an interactive booking system
-- **Architecture:** Filter-driven listing architecture, booking state modeled cleanly through React context + Firebase
-- **Real-world value:** Price/availability filtering, room selection, and booking confirmation workflow
+- **Problem solved:** Static hotel pages replaced with an interactive booking system
+- **Architecture:** Filter-driven listing architecture, booking state via React context + Firebase
+- **Real-world value:** Price/availability filtering, room selection, booking confirmation workflow
 
 [![Live](https://img.shields.io/badge/Live-Demo-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://hotel-booking-client-2f049.web.app/)
 [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Hotel-Booking-client)
@@ -426,7 +269,7 @@ export const UserService = {
 ## 🎯 Engineering Goals
 
 ```
-  Q2 2025 ──▶  Ship production app with Next.js App Router + Prisma + PostgreSQL
+  Q2 2025 ──▶  Ship production app with Next.js App Router + Prisma + PostgreSQL  ✅
   Q3 2025 ──▶  Master Golang microservices with gRPC & message queues
   Q4 2025 ──▶  Full Docker + Nginx + CI/CD deployment pipeline on VPS
   2026    ──▶  Contribute to open-source backend tooling + publish engineering blog
@@ -437,12 +280,18 @@ export const UserService = {
 ## 🤝 Let's Connect
 
 <p align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-adhesive--bed.surge.sh-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033)](https://adhesive-bed.surge.sh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=FF0033)](https://github.com/Rayhan-50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayhan--ahmed-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033)](https://linkedin.com/in/rayhan-ahmed-0ab5aa33a)
-[![Email](https://img.shields.io/badge/Email-rayhanahmed.nstu%40gmail.com-1b0a0a?style=for-the-badge&logo=gmail&logoColor=FF0033)](mailto:rayhanahmed.nstu@gmail.com)
-
+  <a href="https://adhesive-bed.surge.sh/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-adhesive--bed.surge.sh-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033" />
+  </a>
+  <a href="https://github.com/Rayhan-50">
+    <img src="https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=FF0033" />
+  </a>
+  <a href="https://linkedin.com/in/rayhan-ahmed-0ab5aa33a">
+    <img src="https://img.shields.io/badge/LinkedIn-rayhan--ahmed-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033" />
+  </a>
+  <a href="mailto:rayhanahmed.nstu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rayhanahmed.nstu%40gmail.com-1b0a0a?style=for-the-badge&logo=gmail&logoColor=FF0033" />
+  </a>
 </p>
 
 ---
@@ -453,4 +302,8 @@ export const UserService = {
 
 <p align="center">
   <i>"The function of good software is to make the complex appear simple." — Grady Booch</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rayhan-50&label=Profile%20Views&color=FF0033&style=flat" />
 </p>
