@@ -1,25 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rayhan-50/Rayhan-50/main/github-header-banner.png" width="100%" alt="Rayhan Ahmed - Senior Full Stack Engineer Banner" />
+  <img src="https://i.ibb.co/Cp3MDLn8/Raihan-1.jpg" width="100%" alt="Rayhan Ahmed — Full Stack Developer" />
 </p>
 
 <!-- ROLE TICKER -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=1800&color=FF0033&center=true&vCenter=true&width=900&lines=Designing+Scalable+Systems+%26+Production-Grade+APIs;Senior+Full+Stack+Engineer+%7C+MERN+%2B+Next.js+%2B+TypeScript;Backend+Architecture+%7C+PostgreSQL+%7C+Docker+%7C+Golang;Clean+Code.+Zero+Compromise.+Ship+at+Scale." alt="typing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=1800&color=FF0033&center=true&vCenter=true&width=900&lines=Co-Founder+%40+Foxmen+Studio+%7C+Full+Stack+Engineer;MERN+%2B+Next.js+15+%2B+TypeScript+%2B+PostgreSQL;Designing+Scalable+Systems+%26+Production-Grade+APIs;Let%27s+Convert+Your+Dream+To+Code+%F0%9F%9A%80" alt="typing roles" />
 </h3>
 
 <!-- QUICK CONTACT / CTA -->
 <p align="center">
-  <a href="mailto:rayhanahmed.nstu@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-FF0033?style=for-the-badge&logo=Handshake&logoColor=000&labelColor=1b0a0a&color=FF0033" />
+  <a href="https://rayhan-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF0033?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://adhesive-bed.surge.sh/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033" />
+  <a href="https://drive.google.com/file/d/1zFdNE3owDTzjQN66ScdzziadJudMka6X/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download-1b0a0a?style=for-the-badge&logo=googledrive&logoColor=FF0033" />
   </a>
   <a href="https://linkedin.com/in/rayhan-ahmed-0ab5aa33a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033" />
   </a>
-  <a href="https://github.com/Rayhan-50">
-    <img src="https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=FF0033" />
+  <a href="https://wa.me/8801645991970">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-1b0a0a?style=for-the-badge&logo=whatsapp&logoColor=FF0033" />
+  </a>
+  <a href="mailto:rayhanahmed.nstu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-1b0a0a?style=for-the-badge&logo=gmail&logoColor=FF0033" />
   </a>
 </p>
 
@@ -29,19 +32,57 @@
 
 ## 🧠 About Me
 
-I'm a **Senior Full Stack Engineer** who builds production-grade systems — not just working prototypes, but **scalable, maintainable, observable** applications that hold up under real-world load.
+I'm **Rayhan Ahmed** — a Full-Stack Engineer and digital architect based in **Dhaka, Bangladesh 🇧🇩**, and Co-Founder of **[Foxmen Studio](https://foxmen.studio)**.
 
-My work lives at the intersection of **backend engineering, API design, and systems architecture**. I care deeply about the things that matter in production: latency, failure recovery, data integrity, and developer ergonomics.
+With a background in **Statistics from NSTU**, I bring an analytical mindset to every system I build — ensuring apps are not just visually stunning but technically sound and performance-optimized.
 
 ```
-🔧  Systems I build:   REST & GraphQL APIs · Auth systems · Background jobs · Microservices
-📐  How I think:       Domain-driven design · Separation of concerns · Fail-fast principle
-🚀  What I optimize:   Query performance · Bundle size · Response time · Developer feedback loops
-🌍  Location:          Dhaka, Bangladesh  ·  Available for remote & contract work
-📫  Contact:           rayhanahmed.nstu@gmail.com
+🏢  Currently:        Co-Founder & Full Stack Developer @ Foxmen Studio (2024 — Present)
+🔧  Systems I build:  REST APIs · Auth systems · Booking platforms · SaaS products
+📐  How I think:      Domain-driven design · Clean architecture · Fail-fast principle
+🚀  What I optimize:  Query performance · Bundle size · Response time · DX
+🌍  Location:         Dhaka, Bangladesh · Available for remote & contract work
+📫  Contact:          rayhanahmed.nstu@gmail.com · +880 1645-991970
 ```
 
-> *I don't just write code that works — I write code that scales, survives, and is easy to reason about six months later.*
+> *"I don't just write code — I craft digital experiences that users love and developers respect. Clean architecture isn't a choice, it's a standard."*
+
+---
+
+## 📊 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-80%2B%20Done-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos-50%2B%20GitHub-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-150%2B-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clients%20Served-8%2B-FF0033?style=for-the-badge" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🦊 Co-Founder & Full Stack Developer — [Foxmen Studio](https://foxmen.studio)
+**Dhaka, Bangladesh · Remote · 2024 — Present · Full-time**
+
+- Co-founded a development agency delivering full-stack applications for real-world clients across multiple industries
+- Led system design and architecture for scalable frontend and backend systems — from schema to deployment
+- Built production REST APIs with auth, file handling, payments, and third-party integrations
+- Shipped **BIRSTBD**, **Noorvia**, **SkillBridge** and more — all production-ready with real users and traffic
+
+`React` `Next.js` `Node.js` `PostgreSQL` `Prisma` `Firebase` `TypeScript` `Tailwind`
+
+---
+
+### 🌊 Full Stack Developer — Sailors Agency
+**Remote · 2025 · Part-time / Contract**
+
+- Developed a multi-language (**EN, FR, ES, Haitian Creole**) tutoring marketplace for Haiti using i18n localization
+- Designed RESTful APIs with secure JWT + Firebase dual-auth, protecting all sensitive user routes
+- Implemented full client-server architecture, admin dashboards, and booking management for **Leson Paw**
+
+`React` `Vite` `Node.js` `MongoDB` `Firebase Auth` `JWT` `i18n` `Axios`
 
 ---
 
@@ -51,37 +92,37 @@ My work lives at the intersection of **backend engineering, API design, and syst
   <tr>
     <td>⚙️</td>
     <td><strong>Scalable Backend Systems</strong></td>
-    <td>Design and ship APIs and services built for growth — modular, observable, and fault-tolerant</td>
+    <td>APIs and services built for growth — modular, observable, fault-tolerant</td>
   </tr>
   <tr>
     <td>📐</td>
-    <td><strong>RESTful &amp; GraphQL API Design</strong></td>
-    <td>Resource-first API modeling with versioning, validation, rate-limiting, and clean error contracts</td>
+    <td><strong>RESTful API Design</strong></td>
+    <td>Resource-first API modeling with versioning, validation, rate-limiting, clean error contracts</td>
   </tr>
   <tr>
     <td>🗄️</td>
     <td><strong>Database Architecture</strong></td>
-    <td>Relational data modeling in PostgreSQL, query optimization, indexing strategy, and Prisma ORM</td>
+    <td>Relational data modeling in PostgreSQL, query optimization, indexing, Prisma ORM</td>
   </tr>
   <tr>
     <td>🔐</td>
     <td><strong>Auth &amp; Security</strong></td>
-    <td>JWT, OAuth2, session management, RBAC, input sanitization, and secure cookie patterns</td>
+    <td>JWT, OAuth2, Firebase Auth, RBAC, session management, secure cookie patterns</td>
   </tr>
   <tr>
     <td>🖥️</td>
-    <td><strong>Full-Stack React / Next.js</strong></td>
-    <td>SSR, ISR, App Router, streaming, Server Actions — the full Next.js production toolkit</td>
+    <td><strong>Full-Stack Next.js 15</strong></td>
+    <td>SSR, ISR, App Router, streaming, Server Actions — full production toolkit</td>
   </tr>
   <tr>
     <td>🐳</td>
     <td><strong>Containerized Deployments</strong></td>
-    <td>Docker, multi-stage builds, Docker Compose, Nginx reverse proxy, and CI/CD pipelines</td>
+    <td>Docker, multi-stage builds, Docker Compose, Nginx reverse proxy, CI/CD pipelines</td>
   </tr>
   <tr>
-    <td>⚡</td>
-    <td><strong>Performance Engineering</strong></td>
-    <td>Core Web Vitals, caching layers (Redis), DB indexing, lazy loading, and bundle optimization</td>
+    <td>🎨</td>
+    <td><strong>Premium UI Engineering</strong></td>
+    <td>Framer Motion, GSAP, Tailwind CSS — pixel-perfect, accessible, animated UIs</td>
   </tr>
 </table>
 
@@ -89,160 +130,86 @@ My work lives at the intersection of **backend engineering, API design, and syst
 
 ## 🛠️ Tech Stack
 
-### ⚡ Languages & Runtimes
+### ⚡ Languages
 
-| Tech | Badge | Strength |
-|---|---|---|
-| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Strong typing, scalable codebases, zero runtime surprises |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) | Deep ES2022+ knowledge, async patterns, event loop mastery |
-| **Golang** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | High-performance concurrent systems, CLI tools, microservices |
+[![Languages](https://skillicons.dev/icons?i=ts,js,go,html,css)](https://github.com/Rayhan-50)
 
 ### 🖥️ Frontend
 
-| Tech | Badge | Strength |
-|---|---|---|
-| **Next.js** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | SSR, ISR, App Router, full-stack React, streaming |
-| **React** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Component architecture, custom hooks, compound patterns |
-| **TailwindCSS** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first systems, design tokens, responsive layouts |
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,figma)](https://github.com/Rayhan-50)
 
 ### ⚙️ Backend & APIs
 
-| Tech | Badge | Strength |
-|---|---|---|
-| **Node.js** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Async architecture, streams, backend runtime, event-driven |
-| **Express** | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) | REST APIs, middleware pipelines, route composition |
-| **Firebase** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) | Realtime DB, Auth, Firestore, Cloud Functions |
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase,graphql)](https://github.com/Rayhan-50)
 
 ### 🗄️ Databases & ORM
 
-| Tech | Badge | Strength |
-|---|---|---|
-| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | Relational modeling, indexing, query optimization, transactions |
-| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | Document modeling, aggregations, schema design |
-| **Prisma** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Type-safe database layer, migrations, relation modeling |
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis)](https://github.com/Rayhan-50)
 
-### 🚀 DevOps & Tooling
+### 🚀 DevOps & Tools
 
-| Tech | Badge | Strength |
-|---|---|---|
-| **Docker** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized deployments, multi-stage builds, Compose |
-| **Nginx** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | Reverse proxy, load balancing, SSL termination |
-| **Git / GitHub** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Branch strategies, CI/CD, code review workflows |
-| **VS Code** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | Advanced configs, custom snippets, workspace tuning |
+[![DevOps](https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,vercel,postman)](https://github.com/Rayhan-50)
 
 ---
 
-## 🏗️ Architecture Mindset
+## 🔥 Featured Projects
 
-```
-┌─────────────┐     ┌──────────────────┐     ┌──────────────────────┐
-│   Client    │────▶│  Next.js Layer   │────▶│  API Layer           │
-│  (Browser)  │     │  SSR · ISR · RSC │     │  Node/Express · REST │
-└─────────────┘     └──────────────────┘     └──────────┬───────────┘
-                                                         │
-                          ┌──────────────────────────────┤
-                          │                              │
-                ┌─────────▼──────────┐      ┌───────────▼───────────┐
-                │   Primary DB       │      │   Cache Layer         │
-                │  PostgreSQL/Mongo  │      │   Redis / Edge Cache  │
-                └─────────┬──────────┘      └───────────────────────┘
-                          │
-                ┌─────────▼──────────┐
-                │   Deployment       │
-                │  Docker · Nginx    │
-                │  CI/CD Pipeline    │
-                └────────────────────┘
-```
+### 🔬 BIRSTBD — Research Institute Platform
+> Research and statistical education platform with AI-powered analysis tools, Stripe payments, and course management.
 
-**How I think about systems:**
+- **Client:** Foxmen Studio production project · Real users & traffic
+- **Stack:** React 19 · Vite · Tailwind CSS · Framer Motion · GSAP · Stripe · Firebase
+- **Highlights:** AI analysis tools, course management system, secure payment integration
 
-- **Separation of Concerns** — Each layer owns one responsibility. Business logic never bleeds into routes. DB queries never live inside components.
-- **Scalability First** — Services are stateless by design, enabling horizontal scaling. Shared state lives in Redis or the DB — never in memory.
-- **Performance at Every Layer** — DB indexes before adding cache. N+1 queries eliminated. Response payloads shaped to what the client actually needs.
-- **Observability** — Structured logging, error boundaries, and health-check endpoints are not afterthoughts — they ship with the feature.
+[![Frontend](https://img.shields.io/badge/Frontend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/birstbd_foxmenstudio-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/birstbd_foxmenstudio-beckend)
+`React 19` `Vite` `Stripe` `Firebase` `GSAP` `Framer Motion`
 
 ---
 
-## ⚡ Engineering Snippet
+### 🎓 SkillBridge — Tutoring Marketplace
+> Modern Next.js 16 tutoring marketplace with role-based dashboards, booking management, and review system.
 
-```typescript
-// ── types/user.ts
-interface CreateUserDTO {
-  name: string;
-  email: string;
-  role: "admin" | "user" | "guest";
-}
+- **Stack:** Next.js 16 · TypeScript 5 · Tailwind CSS 4 · shadcn/ui · TanStack Query · PostgreSQL · Prisma
+- **Highlights:** Multi-role dashboards (student/tutor/admin), booking flow, real-time review system
 
-// ── routes/users.ts
-router.post(
-  "/",
-  validateBody(createUserSchema),
-  async (req: Request, res: Response, next: NextFunction) => {
-    try {
-      const user = await UserService.create(req.body as CreateUserDTO);
-      res.status(201).json({ success: true, data: user });
-    } catch (err) {
-      next(err);
-    }
-  }
-);
-
-// ── services/user.service.ts
-export const UserService = {
-  async create(dto: CreateUserDTO) {
-    return prisma.user.create({
-      data: dto,
-      select: { id: true, name: true, email: true, role: true, createdAt: true },
-    });
-  },
-  async findByEmail(email: string) {
-    return prisma.user.findUnique({ where: { email }, include: { profile: true } });
-  },
-};
-```
-
-> Clean schema validation at the route boundary · Service layer owns DB access · Prisma for type-safe queries · Centralised error propagation.
+[![Frontend](https://img.shields.io/badge/Frontend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/SkillBridge-Client-)
+[![Backend](https://img.shields.io/badge/Backend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/SkillBridge-server)
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `shadcn/ui` `TanStack Query`
 
 ---
 
-## 🔥 Highlighted Projects
+### 🌍 Leson Paw — Multi-Language Education Platform
+> Multi-language online education system for Haiti with tutor discovery, booking, and progress tracking.
 
-### 🔐 VISA Client — Visa Management Portal
-> A full-stack portal for managing visa applications with role-based auth, protected routes, and complete CRUD workflows.
+- **Client:** Sailors Agency contract project
+- **Stack:** React.js · Vite · Tailwind CSS · Framer Motion · MongoDB · Firebase Auth · JWT · i18n
+- **Highlights:** 4 languages (EN, FR, ES, Haitian Creole), dual-auth, booking management
 
-- **Problem solved:** Manual visa tracking replaced with a structured, auth-gated portal
-- **Architecture:** React SPA with Firebase Auth + Firestore, client-side route protection via custom auth context
-- **Real-world value:** Dynamic status tracking, multi-role access control, and form-driven data entry
-
-[![Live](https://img.shields.io/badge/Live-Demo-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://assignment-10-427ea.firebaseapp.com/)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/VISA-client)
-`React` `Firebase Auth` `Firestore` `Protected Routes` `CRUD`
+[![Frontend](https://img.shields.io/badge/Frontend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Lesson-paw)
+[![Backend](https://img.shields.io/badge/Backend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Lesson-paw-server)
+`React` `MongoDB` `Firebase Auth` `JWT` `i18n` `4 Languages`
 
 ---
 
-### 🌍 Tourism Management — Full-Stack Booking Platform
-> End-to-end tour booking application with authenticated user flows, dynamic listings, and booking management.
+### 🌿 Redleaf-BD — Organic Food Store
+> Premium organic food and grocery platform with category-based browsing, cart management, and seamless UX.
 
-- **Problem solved:** Manual booking coordination replaced with a branded digital platform
-- **Architecture:** React frontend · Firebase Realtime DB · context-based auth with persistent sessions
-- **Real-world value:** Live booking state, protected user dashboards, and scalable listing structure
+- **Stack:** Next.js 15 · React Query · Tailwind CSS · Framer Motion · Node.js
+- **Highlights:** Category browsing, cart management, premium animated UI
 
-[![Live](https://img.shields.io/badge/Live-Demo-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://tourism-management-28e12.web.app/)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/TOURISM-MANAGEMENT-Client)
-`React` `Firebase` `Booking Flow` `Auth` `Dynamic Routing`
+[![Frontend](https://img.shields.io/badge/Frontend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Redleaf-BD-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Redleaf-BD-backend)
+`Next.js 15` `React Query` `Framer Motion` `Tailwind CSS`
 
 ---
 
-### 🏨 Hotel Booking — Listings & Reservation System
-> Hotel listing platform with advanced filters, detailed property pages, and a complete booking flow.
+### 🏢 Noorvia — Business Platform
+> React 19 business platform with admin management, user dashboards, and secure role-based access control.
 
-- **Problem solved:** Static hotel pages replaced with an interactive booking system
-- **Architecture:** Filter-driven listing architecture, booking state via React context + Firebase
-- **Real-world value:** Price/availability filtering, room selection, booking confirmation workflow
-
-[![Live](https://img.shields.io/badge/Live-Demo-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://hotel-booking-client-2f049.web.app/)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/Hotel-Booking-client)
-`React` `Firebase` `Filtering` `Booking UX` `Responsive UI`
+[![Frontend](https://img.shields.io/badge/Frontend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/noorvia-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayhan-50/noorvia-beckend)
+`React 19` `Vite` `Tailwind CSS 4` `DaisyUI 5` `Framer Motion`
 
 ---
 
@@ -266,10 +233,21 @@ export const UserService = {
 
 ---
 
+## 🎓 Education & Certifications
+
+| Degree / Course | Institution | Year | Status |
+|---|---|---|---|
+| B.Sc. in Statistics | Noakhali Science and Technology University (NSTU) | 2022 — 2026 | 🟢 In Progress |
+| Complete Web Development | Programming Hero | 2023 | ✅ Certified |
+| System Design & DevOps | Udemy · Frontend Masters | Ongoing | 📚 Self-learning |
+
+---
+
 ## 🎯 Engineering Goals
 
 ```
-  Q2 2025 ──▶  Ship production app with Next.js App Router + Prisma + PostgreSQL  ✅
+  2024    ──▶  Co-founded Foxmen Studio · Shipped 5+ production products         ✅
+  Q1 2025 ──▶  Delivered Leson Paw multi-language platform (Sailors Agency)       ✅
   Q3 2025 ──▶  Master Golang microservices with gRPC & message queues
   Q4 2025 ──▶  Full Docker + Nginx + CI/CD deployment pipeline on VPS
   2026    ──▶  Contribute to open-source backend tooling + publish engineering blog
@@ -280,14 +258,22 @@ export const UserService = {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://adhesive-bed.surge.sh/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-adhesive--bed.surge.sh-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033" />
+  <a href="https://rayhan-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-rayhan--portfolio.vercel.app-1b0a0a?style=for-the-badge&logo=google-chrome&logoColor=FF0033" />
   </a>
+  <a href="https://foxmen.studio">
+    <img src="https://img.shields.io/badge/🦊%20Foxmen%20Studio-foxmen.studio-1b0a0a?style=for-the-badge&logoColor=FF0033" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/Rayhan-50">
     <img src="https://img.shields.io/badge/GitHub-Rayhan--50-181717?style=for-the-badge&logo=github&logoColor=FF0033" />
   </a>
   <a href="https://linkedin.com/in/rayhan-ahmed-0ab5aa33a">
     <img src="https://img.shields.io/badge/LinkedIn-rayhan--ahmed-1b0a0a?style=for-the-badge&logo=linkedin&logoColor=FF0033" />
+  </a>
+  <a href="https://wa.me/8801645991970">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B880%201645--991970-1b0a0a?style=for-the-badge&logo=whatsapp&logoColor=FF0033" />
   </a>
   <a href="mailto:rayhanahmed.nstu@gmail.com">
     <img src="https://img.shields.io/badge/Email-rayhanahmed.nstu%40gmail.com-1b0a0a?style=for-the-badge&logo=gmail&logoColor=FF0033" />
@@ -301,7 +287,7 @@ export const UserService = {
 </p>
 
 <p align="center">
-  <i>"The function of good software is to make the complex appear simple." — Grady Booch</i>
+  <i>"Let's Convert Your Dream To Code 🚀"</i>
 </p>
 
 <p align="center">
